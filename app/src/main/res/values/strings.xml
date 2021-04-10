@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tyre air pressure monitor - Team M2</string>
+    <string name="a1">Welcome to the smart generation of monitoring tyre pressure - Team M2</string>
+    <string name="a2">Logo</string>
+    <string name="a3">Enter your Product ID</string>
+    <string name="a4">Enter here</string>
+    <string name="a5">STATUS:</string>
+    <string name="a6">CONNECTED</string>
+    <string name="a7">70%</string>
+    <string name="a8">INFLATE TYRE</string>
+    <string name="a9">ABOUT EQUIPMENT</string>
+    <string name="a10">AT NORMAL WORKING CONDITION</string>
+    <string name="a11">AFTER PUNCTURE</string>
+    <string name="a12">ABOUT US</string>
+    <string name="a13">Developed by:</string>
+    <string name="a14">MOHAMED AKHEEL.M</string>
+    <string name="a15">akheel11mohamed@gmail.com</string>
+    <string name="a16">MOHAMED IBRAHIM</string>
+    <string name="a17">ibu6301.md@gmail.com</string>
+    <string name="a18">SIGN IN</string>
+</resources>

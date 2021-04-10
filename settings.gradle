@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Tyre air pressure monitor - Team M2"
